@@ -32,3 +32,6 @@ A curated list of company open source sites.
 * [Pivotal](https://pivotal.io/open-source)
 * [Shopify](https://shopify.github.io/)
 * [Stripe](https://stripe.com/open-source)
+* [Databricks](https://github.com/databricks/)
+* [Underscore](https://github.com/underscoreio/)
+* [Reddit](https://github.com/reddit/)
