@@ -1,4 +1,4 @@
-# 📔 Company OSS sites
+# Company OSS sites
 
 A curated list of company open source sites.
 
