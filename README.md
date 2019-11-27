@@ -2,7 +2,7 @@
 
 A curated list of company open source sites.
 
-* [Apache projects](https://projects.apache.org/projects.html?category)
+* [Apache](https://projects.apache.org/projects.html?category)
 * [Facebook](https://opensource.fb.com/)
 * [Netflix](https://netflix.github.io/)
 * [Twitter](https://twitter.github.io/)
