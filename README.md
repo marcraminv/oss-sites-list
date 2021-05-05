@@ -2,6 +2,7 @@
 
 A curated list of company open source sites.
 
+* [LFAI Data](https://lfaidata.foundation/projects/)
 * [Apache](https://projects.apache.org/projects.html?category)
 * [Facebook](https://opensource.fb.com/)
 * [Netflix](https://netflix.github.io/)
